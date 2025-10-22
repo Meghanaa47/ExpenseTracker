@@ -61,8 +61,8 @@ export default function Home() {
         <h2 className="sectionHeading">About FinTrack</h2>
         <p>
     <b>FinTrack</b> is your personal finance companion designed to help you <b>track income and expenses</b> effortlessly. 
-    Visualize your spending patterns with clear charts and summaries, <b>identify areas to save</b>, and make informed decisions 
-    to achieve your financial goals. Our mission is to empower you to <b>spend wisely, save effectively, and plan confidently</b> for a secure financial future.
+            Visualize your spending patterns with clear charts and summaries, <b>identify areas to save</b>, and make informed decisions 
+            to achieve your financial goals. Our mission is to empower you to <b>spend wisely, save effectively, and plan confidently</b> for a secure financial future.
   </p>
 
       </section>
